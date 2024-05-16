@@ -1,6 +1,5 @@
 # Predicting NBA Players' 2K21 Ratings Using Statistical Modeling.
-### Final Product, Project Writeup:
-[Predicting NBA Players' 2k21 Rating pdf](https://github.com/Hustonb/Predicting-NBA-Players-2K21-Ratings/blob/main/Predicting%20NBA%20Player's%202K21%20Ratings.pdf)
+### Final Product, Project Writeup: [Predicting NBA Players' 2k21 Rating.pdf](https://github.com/Hustonb/Predicting-NBA-Players-2K21-Ratings/blob/main/Predicting%20NBA%20Player's%202K21%20Ratings.pdf)
 
 ### Project Description and Motivation:
 This project showcases my proficiency in SQL for database design and exploratory data analysis, as well as my data visualization skills in Tableau. 
