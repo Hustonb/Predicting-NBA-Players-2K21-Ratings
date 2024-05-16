@@ -1,5 +1,4 @@
 # Predicting NBA Players' 2K21 Ratings Using Statistical Modeling.
-This repository contains files associated with the "Predicting NBA Players’ 2K21 Ratings" project worked on by Ben Huston and Eli Standard. This project was made as part of a 6 week long open ended project for an introductory Data Science course at UVM.
 ### Final Product, Project Writeup:
 [Predicting NBA Players' 2k21 Rating pdf](https://github.com/Hustonb/Predicting-NBA-Players-2K21-Ratings/blob/main/Predicting%20NBA%20Player's%202K21%20Ratings.pdf)
 
