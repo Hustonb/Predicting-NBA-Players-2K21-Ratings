@@ -17,7 +17,3 @@ Went through the full data science lifecycle with the goal of creating a multipl
 
 ### Installing and Executing Scripts:
 Note that only the [Predicting NBA Players' 2k21 Ratings](https://github.com/Hustonb/Predicting-NBA-Players-2K21-Ratings/blob/main/Predicting%20NBA%20Player's%202K21%20Ratings.pdf) PDF was intended as a finished product. The other files are included as a zip file which is intended to show (via a Jupyter notebook) the step by step process we followed; and allow anyone it interests to run this code for themself. Note yet again that this Jupyter notebook (IPYNB file) isn't well polished and just serves as a demonstration of  the methods we used. If you want to look over this Jupyter Notebook, extract the zip to a folder and then run the IPYNB file. 
-
-### References:
-1. https://generatedata.com/generator
-2. https://www.quickdatabasediagrams.com/ 
