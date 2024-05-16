@@ -3,7 +3,7 @@
 [Predicting NBA Players' 2k21 Ratings.pdf](https://github.com/Hustonb/Predicting-NBA-Players-2K21-Ratings/blob/main/Predicting%20NBA%20Player's%202K21%20Ratings.pdf)
 
 ### Project Description and Motivation:
-
+This project first and foremost highlights my grasp of predictive modeling using sports data. Other skills demonstrated in this project include: web scraping, data cleaning, and data visualization. Python is used for this project, with a focus on Pandas, scikit-learn, Matplotlib, seaborn, NumPy, and  Beautiful Soup. The motivation for this project is to build models which predict a players rating in the NBA 2k21 video game based on their real NBA statistics.These models (which are based on different sets of statistics) are then compared to come to conclusions about which statistics most heavily influence this rating.
 
 ### Project Process:
 I went through the full data science lifecycle with the goal of creating a multiple linear reression model which predicts NBA players' NBA 2K21 ratings given their real NBA statistics. 
