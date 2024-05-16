@@ -10,7 +10,7 @@ I went through the full data science lifecycle with the goal of creating a multi
 1. Scraped and combined data from multiple messy sources: using Python's Beautiful Soup library. 
 2. Performed exensive cleaning: leveraging methods ranging from more common to advanced regular expressions.
 3. Created numerous visualizations to draw insights from the data: leveraging Matplotlib, seaborn, and NumPy.
-4. Trained multiple linear regression models to peform necessary prediction.
+4. Trained multiple linear regression models to peform necessary prediction: leveraging scikit-learn package.
 5. Evaluated models using R-squared value, validation error, and residual plots.
 6. Leveraged permutation testing and hypothesis testing to evaluate feature importance.
 7. Documented conclusions and future work to be done. 
