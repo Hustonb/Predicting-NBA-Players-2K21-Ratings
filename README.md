@@ -3,8 +3,7 @@
 [Predicting NBA Players' 2k21 Ratings.pdf](https://github.com/Hustonb/Predicting-NBA-Players-2K21-Ratings/blob/main/Predicting%20NBA%20Player's%202K21%20Ratings.pdf)
 
 ### Project Description and Motivation:
-This project showcases my proficiency in SQL for database design and exploratory data analysis, as well as my data visualization skills in Tableau. 
-The premise of this project is that a blogger’s online store has reached out to me to take care of their data modeling and visualization needs. The website isn’t up and running yet, but the user has a list of fields and tables that they will need included in the data model. The user is also requesting that an interactive dashboard is made showing key metrics for her business. The inspiration for this project is my girlfriend’s blog, which she’s in the process of launching.
+
 
 ### Project Process:
 I went through the full data science lifecycle with the goal of creating a multiple linear reression model which predicts NBA players' NBA 2K21 ratings given their real NBA statistics. 
