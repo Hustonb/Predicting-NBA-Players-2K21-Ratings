@@ -6,7 +6,7 @@ This project showcases my proficiency in SQL for database design and exploratory
 The premise of this project is that a blogger’s online store has reached out to me to take care of their data modeling and visualization needs. The website isn’t up and running yet, but the user has a list of fields and tables that they will need included in the data model. The user is also requesting that an interactive dashboard is made showing key metrics for her business. The inspiration for this project is my girlfriend’s blog, which she’s in the process of launching.
 
 ### Project Process:
-Went through the full data science lifecycle with the goal of creating a multiple linear reression model which predicts NBA players NBA 2k21 ratings given their real NBA statistics. 
+Went through the full data science lifecycle with the goal of creating a multiple linear reression model which predicts NBA players' NBA 2k21 ratings given their real NBA statistics. 
 1. Scraped and combined data from multiple messy sources, using Python's Beautiful Soup library. 
 2. Performed exensive cleaning, leveraging methods ranging from more common to advanced regular expressions.
 3. Created numerous visualizations to help draw insights from the data, leveraging Matplotlib, seaborn, and NumPy.
