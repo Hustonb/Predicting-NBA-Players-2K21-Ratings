@@ -17,4 +17,4 @@ I went through the full data science lifecycle with the goal of creating a multi
 
 ### Installing and Executing Scripts:
 Note that only the [Predicting NBA Players' 2k21 Ratings](https://github.com/Hustonb/Predicting-NBA-Players-2K21-Ratings/blob/main/Predicting%20NBA%20Player's%202K21%20Ratings.pdf) PDF was intended as a finished product. If you want to walk through the process we followed over the course of this project, open the Jupyter Notebook [FinalJupyterNotebook.ipynb](https://github.com/Hustonb/Predicting-NBA-Players-2K21-Ratings/blob/main/FinalJupyterNotebook.ipynb).
-The zip file will allow anyone it interests to run this code for themself.
+The zip file will allow anyone it interests to run this code for themselves.
